@@ -5,3 +5,21 @@
 #SubmitButton {
     margin-top: 6px;
 }
+
+#Table {
+    background-color: pink;
+    float:right;
+    margin-right: 814px;
+    border: 1px solid black;
+}
+
+td {
+    padding: 10px;
+    width: 120px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#HeaderCellLeft, #HeaderCellRight {
+    border: 1px solid black;
+}
